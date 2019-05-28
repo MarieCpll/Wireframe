@@ -1,0 +1,119 @@
+header nav
+{
+display: flex;
+align-content: flex-start;
+justify-content: space-between; 
+width: 100%;
+color: white;
+}
+.entete
+{
+border: 1px grey solid;
+width: 125px;
+height:40px;
+background-color: grey;
+}
+.liens
+{
+border: 1px grey solid;
+background-color: grey;
+width: 25%;
+height: 40%;
+
+}
+.minimg img 
+{
+  max-width: 50%;
+  display: flex;
+  margin: 30px;
+}
+
+header section
+{
+  display: flex;
+  align-items: center;
+  width:70%;
+}
+
+.logoimg
+{
+justify-content: center;
+display: flex;
+margin: 60px;
+padding: 30px 200px 30px 350px;
+}
+
+main nav 
+{
+display: flex;
+justify-content: space-around;
+background-color: grey;
+
+}
+main nav div p 
+{
+word-wrap: break-word;
+}
+main nav div
+{
+max-width: 10%;
+}
+main nav div img
+{
+width: 55%
+}
+main section 
+{
+display: flex;
+justify-content: space-around;
+}
+main section div
+{
+width: 60%;
+}
+main section p
+{
+word-wrap: break-word;
+width: 30%;
+}
+.contact
+{
+background-color: grey;
+display: flex;
+justify-content: space-around;
+align-content: center;
+}
+.adresse
+{
+display: flex;
+justify-content: space-between;
+
+}
+article
+{
+width: 50%;
+}
+.questions
+{
+display: flex;
+align-items: center;
+flex-direction: column;
+}
+main div input
+{
+margin-bottom: 2%;
+}
+footer 
+{
+display: flex;
+background-color: grey;
+justify-content: space-around;
+}
+footer div img
+{
+width: 20%;
+}
+footer div
+{
+max-width: 15%;
+}

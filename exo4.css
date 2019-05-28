@@ -1,0 +1,63 @@
+header 
+{
+display: flex;
+justify-content: space-between;
+}
+main
+{
+display: flex;
+justify-content: space-between;
+}
+main section
+{
+display: flex;
+justify-content: flex-end;
+flex-direction: column;
+}
+main section img
+{
+width: 30%;
+}
+main article
+{
+display: flex;
+justify-content: flex-start;
+width: 70%;
+justify-content: space-between;
+margin-bottom: 20px;
+}
+.bl
+{
+margin-right: 10%;
+}
+main nav
+{
+display: flex;
+flex-direction: column;
+width: 70%;
+}
+main nav div
+{
+display: flex;
+justify-content: space-around;
+justify-content: flex-start;
+width: 43%;
+}
+footer
+{
+display: flex;
+justify-content: space-around;
+}
+footer div nav 
+{
+display: flex;
+justify-content: space-between;
+}
+footer nav
+{
+margin-bottom: 20px;
+}
+footer div
+{
+width: 10%;
+}
